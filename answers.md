@@ -5,10 +5,6 @@ LEVEL 5 COMPLETE: completed my own branch
 LEVEL 6 COMPLETE: found chest code
 LEVEL 7 COMPLETE: completed mini boss
 LEVEL 8 PR LINK: https://github.com/<lareyz>/cpe411l-git-quest/pull/1
-<<<<<<< HEAD
 LEVEL 9 TEST: resolved merge
 
 
-=======
-LEVEL 9 TEST: branch change
->>>>>>> conflict-test
