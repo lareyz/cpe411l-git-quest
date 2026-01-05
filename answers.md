@@ -6,5 +6,6 @@ LEVEL 6 COMPLETE: found chest code
 LEVEL 7 COMPLETE: completed mini boss
 LEVEL 8 PR LINK: https://github.com/<lareyz>/cpe411l-git-quest/pull/1
 LEVEL 9 TEST: resolved merge
+LEVEL 10 COMPLETE: I submitted my proof
 
 
